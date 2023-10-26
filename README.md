@@ -9,6 +9,8 @@
 
 문제에 대한 풀이는 멀티캠퍼스의 강의를 통해 진행합니다. 
 
+[문제바로가기](https://github.com/sunkusun9/DS_challenge_2310/blob/main/prob.ipynb)
+
 # 강의 영역
 
 * 주제: 읽을 도서(to read book) 예측 문제
