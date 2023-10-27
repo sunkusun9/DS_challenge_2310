@@ -9,8 +9,6 @@
 
 문제에 대한 풀이는 멀티캠퍼스의 강의를 통해 진행합니다. 
 
-[문제바로가기](https://github.com/sunkusun9/DS_challenge_2310/blob/main/prob.ipynb)
-
 # 강의 영역
 
 * 주제: 읽을 도서(to read book) 예측 문제
@@ -24,3 +22,8 @@
 |비지도학습|KMean Clustering, TSNE|
 |기계학습 알고리즘|Back Propagation, 경사하강법(Gradient Desccent)|
 |모델 검증 및 성능 측정|계층적 교차검증(Stratified KFold), 성능 지표: MAP@K|
+
+# 강의 마무리 인사
+
+수강해 주신 여러분께 감사드립니다. 강의 내용은 DS_prob1_2310.zip 하나로 압축을 해두었습니다.
+2023-10-27일
